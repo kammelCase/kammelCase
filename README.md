@@ -4,6 +4,7 @@
 - Check out [shotsFired](https://github.com/kammelCase/shotsFiredBoston): analyzing, visualizing, and modeling current trends of gun violence in Boston.
 - I created [Habibis](https://linktr.ee/HabibisNFT), an NFT project bringing together creativity, community, and code.
 - I created some [documentaries and won some awards](https://vimeo.com/kammel).
+- Chat me up on [LinkedIn](https://www.linkedin.com/in/kammel/).
 
 <!--
 **kammelCase/kammelCase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
