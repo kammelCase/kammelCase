@@ -1,6 +1,8 @@
 ### 👋 Hi there. My name is Mark Raafat Kammel. 
-### I'm a documentarian & founder turned Data Scientist.
+### 💻 I'm a documentarian & founder turned Data Scientist.
+I believe Data Science can be a major force for good in our world. If a project works toward that, then I'm all in.
 
+### 🔗 Here, have some links:
 - Check out [shotsFired](https://github.com/kammelCase/shotsFiredBoston): analyzing, visualizing, and modeling current trends of gun violence in Boston.
 - I created [Habibis](https://linktr.ee/HabibisNFT), an NFT project bringing together creativity, community, and code.
 - I created some [documentaries and won some awards](https://vimeo.com/kammel).
