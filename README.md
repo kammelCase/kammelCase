@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Mark Raafat Kammel, I'm a documentarian and founder turned Data Scientist.
+# My name is Mark Raafat Kammel, I'm a documentarian and founder turned Data Scientist.
 <!--
 **kammelCase/kammelCase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
