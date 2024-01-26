@@ -1,6 +1,8 @@
 ### 👋 Hi there. My name is Mark Raafat Kammel. 
 ### 💻 I'm a documentarian & founder turned Data Scientist.
-I believe Data Science can be a major force for good in our world. If a project works toward that, then I'm all in.
+I started to code when I wanted to automate and create some generative artwork in Blender. But once I found Data Science, that was a wrap. For me, it felt almost identical to the process of creating documentaries but turned up to 11. Now, I want to bring my 10+ years of experience as a founder and documentary filmmaker to the world of Data Science.
+
+I believe Data Science can be a major force for good in our world. If your project/company works towards that, then I'm all in.
 
 ### 🔗 Here, have some links:
 - Check out [shotsFired](https://github.com/kammelCase/shotsFiredBoston): analyzing, visualizing, and modeling current trends of gun violence in Boston.
